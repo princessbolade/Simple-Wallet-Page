@@ -1,0 +1,10 @@
+.advert__bar__container{
+    background-color: black;
+    color: #ffff;
+}
+
+.advert__bar__card{
+    position: relative;
+    margin: 30px auto;
+}
+

@@ -1,0 +1,38 @@
+.btn{
+    padding: 8px 20px;
+    outline: none;
+    border: none;
+    border-radius: 3px;
+}
+
+.btn--primary{
+    background-color: #ffff;
+    color: black;
+    border: 1px solid black;
+    padding: 13px 9px;
+    border-radius: 10px;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.btn--primary:hover{
+    background-color: black;
+    color: #ffff;
+}
+
+.btn--tetiary{
+    background-color: black;
+    border: 1px solid #ffff;
+    color: #ffff;
+    padding: 15px 10px;
+    border-radius: 10px;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.btn--tetiary:hover{
+    background-color: #ffff;
+    color: black;
+    border: 1px solid black;
+    transform: all 0.3 ease-out;
+}

@@ -1,0 +1,36 @@
+.amount__card{
+    margin: 20px;
+    padding:20px;
+    background-color: #daf3f0;
+    border-radius: 30px;
+    
+}
+
+.amount__card:hover {
+    box-shadow: 0px 6px 10px rgba(0, 0, 0, 0.4);
+    transform: scale(1.01);
+  }
+
+  .amount__card__icon {
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 10px;
+  }
+
+  .amount__card__title{
+      font-size: 16px;
+      color: #808080;
+  }
+
+  .amount__card__balance{
+font-size: 40px;
+  }
+
+  .amount__card__btns{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    
+  }
